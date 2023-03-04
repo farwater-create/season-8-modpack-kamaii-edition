@@ -1,12 +1,513 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "9c2e224068560b5942f4a0a9fe8a54fe7382dbc37c36043ab402a0ceecc259f6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ash_block.png"
+hash = "90b91658eb9479324692338bb4544f106aa504bf9c284505e1214c5a6e05d512"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cheese_sword.png"
+hash = "827af24b458a76c15cc76cdbd387d6423b83f8370806456368bb9ff280e7fb89"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "bae9c8e1f46d8fbe038351ae72af9927f2893e459a59b879aafc25cfe2549f12"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "017d8c6a6849a2b58d9627a8c2984863a2a89a4cd7497d0ad7da69d7310c3402"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "72c13fe46e7d861510926c04d07941faee8665fd65be81368ddbea5d63546211"
+
+[[files]]
+file = "kubejs/data/farwater/haunting/netherrack_from_ashblock.json"
+hash = "c8f6719af6ef1da3af44177cf29641d7e719cbc9ec03416687974129d76e103d"
+
+[[files]]
+file = "kubejs/data/farwater/splashing/mossy_cobblestone.json"
+hash = "a5caa242befd8c97c2ea145717e2a402e68cc0a91da56f23760cd62f27ade5e4"
+
+[[files]]
+file = "kubejs/data/mossy_cobblestone.json"
+hash = "a5caa242befd8c97c2ea145717e2a402e68cc0a91da56f23760cd62f27ade5e4"
+
+[[files]]
+file = "kubejs/data/netherrack_from_ashblock.json"
+hash = "c8f6719af6ef1da3af44177cf29641d7e719cbc9ec03416687974129d76e103d"
+
+[[files]]
+file = "kubejs/exported/cachedEvents.json"
+hash = "e8e4d4d91db8a9191250acf17e0fd1f7f50364760cebfc640b5682a565001734"
+
+[[files]]
+file = "kubejs/exported/cachedForgedEvents.json"
+hash = "2b8a54a120121922ba6dfa064fdeb426790f4c50cb1bbfe31580e51732d48d8c"
+
+[[files]]
+file = "kubejs/exported/cachedJava.json"
+hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+
+[[files]]
+file = "kubejs/exported/javaClasses.json"
+hash = "8b3b1dcaf20aafeb31ec2ceae9360f2a843c2a423d68dfcf909a1e82bc8fd19c"
+
+[[files]]
+file = "kubejs/exported/mergedClasses.json"
+hash = "3858e5ab1676b315b2af8cc0954e443bf64685f0cabbfb2f8d8db81a1c59450f"
+
+[[files]]
+file = "kubejs/exported/tags/activity.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/attribute.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/banner_patterns.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/block_entity_type.txt"
+hash = "1433f641559f438fe50c3b90a7510508f4fdd76bd3fb90b74c0fe86165a3e7d6"
+
+[[files]]
+file = "kubejs/exported/tags/block_predicate_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/blocks.txt"
+hash = "05bc078b3d20636f1fe4a3ec7bdb8d0c43aa97a61cccd603cca20123cf0bf10d"
+
+[[files]]
+file = "kubejs/exported/tags/chunk_status.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/contracts.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/curses.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/custom_stat.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/data_serializers.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/dimension_type.txt"
+hash = "fa27dcabeb4d1a5ecae611e1504efbd852ae9c5af12c911291bde78e580ff446"
+
+[[files]]
+file = "kubejs/exported/tags/enchantment.txt"
+hash = "8e57a4fb8569c08b2dd57746aa9a0f1f8155f6007f8176ad82dcd3fe0c1e38c4"
+
+[[files]]
+file = "kubejs/exported/tags/entity_types.txt"
+hash = "c24b658d73e880fb5d1635be363eebc728c2df9a13db3bcf32a42d6d03609c6f"
+
+[[files]]
+file = "kubejs/exported/tags/float_provider_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/fluids.txt"
+hash = "27bb3f58cb7cbe9b7787c5e879fe4fc036a4dd68b253971f18f6cf00860ed4ef"
+
+[[files]]
+file = "kubejs/exported/tags/forge/loot_modifier_serializers.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/forge/world_types.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/fortunes.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/game_events.txt"
+hash = "0fb4b6aa84055a43f5ed70c8a49010f0916fe00108d72641c372ba3f476b2c30"
+
+[[files]]
+file = "kubejs/exported/tags/height_provider_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/ingredient_deserializers.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/ingredient_serializers.txt"
+hash = "6fa386c08be7bfd2df5e6fb60f06be03f5d6e2a56322b99ee583709400ceafa9"
+
+[[files]]
+file = "kubejs/exported/tags/int_provider_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/items.txt"
+hash = "800c61a17fcddc8b7f11999b8c5f59ddeadd028f10959860acc5657feee8dd25"
+
+[[files]]
+file = "kubejs/exported/tags/keytypes.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/loot_condition_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/loot_function_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/loot_modifier.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/loot_nbt_provider_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/loot_number_provider_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/loot_pool_entry_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/loot_score_provider_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/memory_module_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/menu.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/mob_effect.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/motive.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/particle_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/pipe_movement_restrictions.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/point_of_interest_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/pos_rule_test.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/position_source_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/potion.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/recipe_serializer.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/recipe_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/repurposed_structures/json_conditions.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/ritual_functions.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/rule_test.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/schedule.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/sensor_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/sigils.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/sound_event.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/stat_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/transformations.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/unique_pipe_nbt.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/value_deserializers.txt"
+hash = "4d31651a16b91941c527b7bf28b3037905e63e92a5fe03a63bb600bb87204a41"
+
+[[files]]
+file = "kubejs/exported/tags/villager_profession.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/villager_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/biome.txt"
+hash = "34c4b2c0bd3ec063da299b556aa4d461b26e288b8e3b6deac4346ac46e3c8ab9"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/biome_source.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/block_state_provider_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/carver.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/chunk_generator.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/configured_carver.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/configured_feature.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/configured_structure_feature.txt"
+hash = "7a6cebd80666ee25e81cc5b10d5fb59b63eec3ebf69a6aad4d95d226eb2b5b89"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/density_function.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/density_function_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/feature.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/feature_size_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/foliage_placer_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/material_condition.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/material_rule.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/noise.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/noise_settings.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/placed_feature.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/placement_modifier_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/processor_list.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/structure_feature.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/structure_piece.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/structure_placement.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/structure_pool_element.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/structure_processor.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/structure_set.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/template_pool.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/tree_decorator_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/exported/tags/worldgen/trunk_placer_type.txt"
+hash = "1bc7fb8593f02ac53f7341cdd2aeb3397197efd91aff522f96559932fb7a02d2"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "b0038004bd40939c8b3d0b61f8e0ab36434bf60932269d3a331ff8e76e3eb240"
+
+[[files]]
+file = "kubejs/server_scripts/blacklist.js"
+hash = "01d1626b6ce6cfb2d5e4b04a817a0de1ef77d1e3378726a3131ea573f68cefdf"
+
+[[files]]
+file = "kubejs/server_scripts/compacting.js"
+hash = "3f689fe777e1d53b9f2269a121a6e2474c305a171c4ac95756a59dbff47ee096"
+
+[[files]]
+file = "kubejs/server_scripts/creeper-overhaul-drops.js"
+hash = "063800318ee38dc5c394c9530fd65c2ebd08740af8e62eefdd1d8b94b7990254"
+
+[[files]]
+file = "kubejs/server_scripts/crushing.js"
+hash = "e92dff2566e2c39f201fa90fa3d495be61ef85e5ad724cc2261d0dbebfa4c00a"
+
+[[files]]
+file = "kubejs/server_scripts/custom.js"
+hash = "bb69133dfa0849c0fe08b6af375aca4087665374e30c5333dbd8810a20e3190e"
+
+[[files]]
+file = "kubejs/server_scripts/filling.js"
+hash = "d7af7ce8c94d8a37177f13c0e259abce1f7f82b8238faa339e002647a56f0048"
+
+[[files]]
+file = "kubejs/server_scripts/fluids.js"
+hash = "004ccf25b9f1e8aba42043a2b5ee84012c40586fe569d71e81ffed636ae3eaaf"
+
+[[files]]
+file = "kubejs/server_scripts/milling.js"
+hash = "bb69133dfa0849c0fe08b6af375aca4087665374e30c5333dbd8810a20e3190e"
+
+[[files]]
+file = "kubejs/server_scripts/mixing.js"
+hash = "48a185058378fbe250c3857124b19e2ccb5b5bce4f7d5fff4bc6c5f78598f289"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "ccfd7046ff5025ac8d100c599e4a3d050cd31d478a9dc2a3d3768d65499cb992"
+
+[[files]]
+file = "kubejs/server_scripts/shaped.js"
+hash = "b76817b12ffef1d674111240c2ad11b1f8c628edd25b552481c106d7b65aa4a3"
+
+[[files]]
+file = "kubejs/server_scripts/shapeless.js"
+hash = "143dd74018492164a4c476708469b95e73d9c2d325776161e47fee7d97202b6a"
+
+[[files]]
+file = "kubejs/server_scripts/splashing.js"
+hash = "001ce64a794617cf006cacd4848012b8f759dd53e53e055821226bacb02e05cf"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "025d258a8e0f7d7a1314ea901d3c99420129576d6a5e41306a34263e991375f5"
+
+[[files]]
+file = "kubejs/server_scripts/tconstruct-recipes.js"
+hash = "09a6ca75fdef64757e083a172a6fcf3b9fc251e86f852129b122155da342c290"
+
+[[files]]
+file = "kubejs/server_scripts/wood-cutting.js"
+hash = "a1e550344d450e56fdf6aa6e44f3acfa8c7a24af2692985d54b14fdb3e7e05ff"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-blocks.js"
+hash = "ec0c66779b0091765647bc7e43810e2dedc56f68b2681b0436a4c54f9401de61"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-items.js"
+hash = "2cf76921bd368b0cf1e5e9724922e3866afbaa95bd58fc81b189d1e4d6ab88ce"
+
+[[files]]
+file = "kubejs/startup_scripts/tool-tiers.js"
+hash = "4d7eacb81a9749238edec53cb2381f9977e4663da8fa85bf19c6c234aad353f5"
+
+[[files]]
 file = "modlist.txt"
 hash = "6906941094affc12163a698d215aa4b12fae5520eec69971887cbdf2b0d06acc"
 
 [[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "c924e600f666e09f4f7435769dd9d51ea17c0e259e36a1f6899b797acbf21687"
+metafile = true
+
+[[files]]
+file = "mods/advancements-enlarger.pw.toml"
+hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
 metafile = true
 
 [[files]]
@@ -25,13 +526,18 @@ hash = "0fb8e98e69eb668ee9251b60397360067cd8b09a19e8cf6edfc0efa877804bbf"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "201213e3b6aed4bf6561d07fc73e2af0f472524a4cdad085481663e03146094c"
+metafile = true
+
+[[files]]
 file = "mods/among-us-plushies.pw.toml"
 hash = "b8b7f4b79f58e4a939e64eb2998cb6c892fbb2470695a10635c575edd52f0756"
 metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "410427e35a14ad261f3b41b01fbccb94b3e06712be494ebacd8a7e8fe5f556c0"
+hash = "728c85c89f01a18eef1b03d6de2285e2bbf4c50e90b1ce8ae355e73207551584"
 metafile = true
 
 [[files]]
@@ -85,8 +591,18 @@ hash = "42f952e60428cee95b9f2a2ae36ec54dfd80ff84f2e4ecf23a70f889086724fb"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "7f0b310e9d00f4744059554a9f34e2a932ff2e0ea7071356ac382555029989e4"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "e3fb970cb6fd0724a4bae2e1afec8c9a2c9de53da8644862446ba35eee145983"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "b831a7f0de8fbe6d8d1e9bba0acd2c6e80ebc7efd8bfdf9cff62804079660ec8"
 metafile = true
 
 [[files]]
@@ -107,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/blanket.pw.toml"
 hash = "1174e50ad30faac1a1c2bc11944a3275985c17f0b38ee3e6e7507d140bc5ae65"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "809e3ed5471aeed8d6948deff168d473b08d96a39bfc89b3ab3c210fc7f5d25a"
 metafile = true
 
 [[files]]
@@ -325,6 +846,21 @@ hash = "af3da722a836aaca02a67b979b5d97389a9076b261622715874b573935bbea15"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-sound-filters.pw.toml"
+hash = "ba40de2d2f453162be04ab7372f26fd5438fc2ef3b8997aa2e2a1b0917465424"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation-fabric.pw.toml"
+hash = "29972d6a7a844c37e018d18381299315f03a27c64f9c9d9da5439d3ce478063c"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "f42b5d6e1351cd35715f392e2bd3db2914299297209ca4c5193143ddec836608"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
 hash = "5aa21034de092be162a762dc5cb69b66f8bfec90d4d1cb0e544c094066021ca3"
 metafile = true
@@ -351,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
-hash = "5fd87f79eb0de01722946daff233af951f19eff4b15f5af012d3a6de03d7cf1a"
+hash = "9b6419b364a51bd7ebf53e10093cd1356b32644b596095b47689152f27a79bae"
 metafile = true
 
 [[files]]
@@ -400,8 +936,18 @@ hash = "d0d478749f0001eb76f027220b54d912f59b80035eeda83c3723d470c9c3f04e"
 metafile = true
 
 [[files]]
+file = "mods/falling-leaves-fabric.pw.toml"
+hash = "c11dace2ec8d8ba3ec6641e02d53684f90f2b975a0cbf892f63c8280dcee673e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "6953179ee3993b203d32ba166eccb45bb2860c0b8ee79176fc65cbc545a2e6aa"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
 metafile = true
 
 [[files]]
@@ -417,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/feytweaks.pw.toml"
 hash = "0214d3cbae1b5e2c26c345d101a3f84d9079948d8de6fe0567c3dd90efd2751f"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "71e2a1e02cbf7c7ab5d3f37ae4152a5888ae6973d08723c03e143b87083ab544"
 metafile = true
 
 [[files]]
@@ -470,6 +1021,11 @@ hash = "468c883c1b534ea8a86dd7078a889ac7053580f075ec2c70c513653fd642cb16"
 metafile = true
 
 [[files]]
+file = "mods/illuminations.pw.toml"
+hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "031b8bd7fed650a961aee4ab1bdb13b6657e7c0b869b792df909fcc3d547689c"
 metafile = true
@@ -491,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.pw.toml"
-hash = "eac3c37e6593e219134f3942a33f84cd573ced1cdea02de8cf8bf54dc87fa062"
+hash = "7848466b7f337faf90f5edb14aeed716c398f8abfe091cef7c4894102e2727d4"
 metafile = true
 
 [[files]]
@@ -511,12 +1067,17 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "db91b71e52569b1b2e06b7cd6756cd99bc4795266bb6334abc5cbeff47a6d0f9"
+hash = "356e3f95e5fa056b5427af09e0eb6f7871d93481c63287073d9d71ba86a6ea16"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "1ddb5c781c2dd8b9493a875ed6de9f46f2927fd40f5210201ff4b01ba1e28d00"
+hash = "cc623f4e9c432943de6b15c1228336c260c9dd8e069c6438f027c405f60fdeed"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "531d8c87df493544f0fe91f525bf7e65a77c065e66614b976a362dff7abecbc7"
 metafile = true
 
 [[files]]
@@ -590,6 +1151,11 @@ hash = "53c98c9d45ca61a96d82c7ce61804a1d98b73441925ccefe0f2e6ba4baaae34d"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "1986f1bb1573e257a0f657a7f32e76e28e3429bb8fb672013a3bbaa89155fd0e"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "31bf07c74f2bbcb0913ef15e711158151130aae7c0c67e3f5d8ae5f4f6c1d7e4"
 metafile = true
@@ -600,8 +1166,18 @@ hash = "6eba3db4441aeb476346cfe61fb28aa4301e96935b9ea32845a414bed9c44d04"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "10affce7c1c9de85819a839b177979f414be3a6bb65e4033b30b425cce3fb3fd"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "0ab3290b4aded49514c8cc285e7a7516671076cb3f55df225b097faa0f1b440a"
+metafile = true
+
+[[files]]
+file = "mods/public-gui-announcement.pw.toml"
+hash = "959f0fa449a2015a467c927a329eed15e3c899864601b7664bad19c759431afd"
 metafile = true
 
 [[files]]
@@ -660,6 +1236,11 @@ hash = "14717e5b9c1db46b5c938915cb981ea7f3ac31f93b87dcf391bb7abfafc53823"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "99f37fafb4a632b2bb911e8a1655bc223a29bddb8610df270625a4e228a96fb6"
+metafile = true
+
+[[files]]
 file = "mods/snail-mail.pw.toml"
 hash = "37dbf7a0ff742d8590939e9f7dabdc9c8549275403620e30a0e12d523f568e0e"
 metafile = true
@@ -667,6 +1248,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9e90778ca0eeb911c697a67cd302cd196432d108525493f1798e31d7816c1dca"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
 
 [[files]]

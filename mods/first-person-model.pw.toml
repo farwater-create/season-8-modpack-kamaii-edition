@@ -1,0 +1,13 @@
+name = "First-person Model (Forge/Fabric)"
+filename = "firstperson-fabric-2.2.2-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db0c450a648f37eb406c64bd3849ded37a5a992c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4327737
+project-id = 333287
